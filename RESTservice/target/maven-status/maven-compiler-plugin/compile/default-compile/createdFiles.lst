@@ -1,0 +1,4 @@
+com\cloud\rest\restservice\model\Client.class
+com\cloud\rest\restservice\model\ClientRepository.class
+com\cloud\rest\restservice\ResTserviceApplication.class
+com\cloud\rest\restservice\controller\ClientController.class

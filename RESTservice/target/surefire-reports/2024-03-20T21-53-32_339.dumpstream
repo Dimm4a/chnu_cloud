@@ -1,0 +1,5 @@
+# Created at 2024-03-20T21:53:32.530
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Gdrive\CHNU\PMN\Subjects\2024-I\Cloud\lab1 H2\RESTservice\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
